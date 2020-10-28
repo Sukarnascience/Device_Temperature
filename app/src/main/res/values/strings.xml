@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Device Temperature</string>
+    <string name="sukarna_jana">Sukarna Jana</string>
+    <string name="Temp">--NA--</string>
+    <string name="device_temperature_is">Device Temperature is :-</string>
+    <string name="BatteryDataStatus">Limit is 40 degree Celsius</string>
+</resources>
